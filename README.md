@@ -28,7 +28,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🏦 [Data Bank](https://github.com/yaswanthteja/SQL_Dannys_Data-Bank_CaseStudy4) | Data analysis | Using the Data Bank data, I calculate metrics and growth, and analyze data for future planning and development through linking customers' cloud data storage limits to their account balances.  |  
 | 🌽 [Data Mart](https://github.com/yaswanthteja/) | Data cleaning and analysis | In this project, I measure the effect of changes in June 2020 on Data Mart's sales performance, identifying the most affected platform, region, segment, and customer types, and finding ways to minimize future sustainability updates' impact on sales.  |  
 | 🎣 [Clique Bait](https://github.com/yaswanthteja/SQL_Dannys_Clique_Bait) | Digital, product funnel and campaign analysis | To support the founder and CEO Danny's vision, I analyze the dataset for the Clique Bait online store, and develop creative solutions for calculating funnel fallout rates.  |  
-| 🍒 [Fresh Segments](https://github.com/yaswanthteja/) | Interest analysis | I analyse customer behavior and interests to help clients understand their customers.  |  
+| 🍒 [Fresh Segments](https://github.com/yaswanthteja/Fresh_Segments) | Interest analysis | I analyse customer behavior and interests to help clients understand their customers.  |  
  
 
 ***
