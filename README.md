@@ -38,6 +38,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link  | Area of Analysis  | Project Description  | 
 |---|---|---|
-| 🪙[Currency Exchange](https://github.com/yaswanthteja/Currency_Xchange)  | Currency analysis  | Currency Xchange is a user-friendly and efficient currency converter application that allows users to convert between different currencies effortlessly. With real-time exchange rate data sourced from reputable APIs, Currency Xchange provides accurate and up-to-date conversion rates for currencies worldwide—experience hassle-free currency conversions on the go with Currency Xchange..   | 
+| 🪙[Currency Exchange](https://github.com/yaswanthteja/Currency_Xchange)  | Currency analysis  | Currency Xchange is a user-friendly and efficient currency converter application that allows users to convert between different currencies effortlessly. With real-time exchange rate data sourced from reputable APIs, Currency Xchange provides accurate and up-to-date conversion rates for currencies worldwide experience hassle-free currency conversions on the go with Currency Xchange..   | 
 |   |   |   |  
  
